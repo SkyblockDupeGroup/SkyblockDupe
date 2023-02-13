@@ -4,6 +4,35 @@ Dupes any skyblock or minecraft item from anywhere.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Setup: 
 
 Install the mod from releases
